@@ -210,7 +210,7 @@ document.querySelector(".go").addEventListener('click', () => {
 });
 
 function forwardToDocuments(params) {
-    location.href = "/dowodplska/documents.html?" + params.toString();
+    location.href = "/___/documents.html?" + params.toString();
 }
 
 var guide = document.querySelector(".guide_holder");
